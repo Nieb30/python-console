@@ -1,1 +1,1 @@
-# Python-Console by Bien
+# Python-Console by Bien Manuel
